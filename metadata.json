@@ -1,0 +1,6 @@
+{
+  "name": "Sabr — Столовая нового поколения",
+  "description": "Современная столовая Sabr с теплым органическим культурным дизайном, параллаксом и каталогом из 50 разнообразных блюд с возможностью заказа и фильтрации.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
